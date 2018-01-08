@@ -1,4 +1,3 @@
-ticker,targetBuy,targetSell,divHack,buyStrategy,sellStrategy,priority,minPeriod,maxPeriod,premTarget
-AMD,10.00,14.00,no,aggressive,conservative,1,2w,1m,.01
-NUE,56.50,59.50,yes,aggressive,conservative,2,2w,1m,.01
-GM,40.50,49.50,yes,conservative,conservative,3,2w,1m,.01
+ticker,targetBuy,targetSell,divHack,buyStrategy,sellStrategy,priority,minPeriod,maxPeriod,premTarget,weightTarget
+NUE,54.50,58.00,yes,aggressive,conservative,4,2w,1m,.01,200
+BAC,25.00,27.00,yes,aggressive,conservative,4,2w,1m,.01,300
